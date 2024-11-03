@@ -1,2 +1,0 @@
-# Registos-Produtos
-RegistosProdutos
